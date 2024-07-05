@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor challenge solution](https://your-solution-url.com)
-- Live Site URL: [github pages live site](https://your-live-site-url.com)
+- Solution URL: [frontendmentor challenge solution](https://www.frontendmentor.io/solutions/blog-preview-card-On2Ju3PGOD)
+- Live Site URL: [github pages live site](https://coder-abdo.github.io/blog-preview-card/)
 
 ## My process
 
